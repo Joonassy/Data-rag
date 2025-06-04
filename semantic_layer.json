@@ -1,0 +1,8 @@
+{
+    "KPI definitions": {
+        "primary profit": {
+            "description": "primary profit is the sale amount multiplied by 0.5 if fullfilment = 'Amazon' and if fulfilment is not 'Amazon' then it's multiplied by 0.3",
+            "formula": "if fullfilment = 'Amazon' then sales * 0.5 else sales * 0.3"
+        }
+    }
+}
