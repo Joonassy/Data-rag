@@ -1,5 +1,5 @@
 pandas
-pyspark
+pyspark==3.5.0
 groq
 faiss-cpu
 sentence-transformers
