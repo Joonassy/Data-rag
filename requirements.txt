@@ -1,0 +1,6 @@
+pandas
+pyspark
+groq
+faiss
+sentence-transformers
+transformers

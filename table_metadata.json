@@ -33,13 +33,6 @@
             "increff": "This column contains data related to the profitability of e-commerce sales through INCREFF."
         }
     },
-    "expense_iigf": {
-        "description": "This table contains financial information on expenses to help optimize product profitability",
-        "columns": {
-            "recived_amount": "The total amount of money received from sales.",
-            "expance": ""
-        }
-    },
     "international_sale_report": {
         "description": "This table provides detailed information on international sales, including customer, style, SKU, size, pieces, rate, and gross amount",
         "columns": {
@@ -85,8 +78,16 @@
             "weight": "Weight of the product.",
             "mrp_old": "Original price of the product.",
             "final_mrp_old": "Final price of the product after discounts.",
-            "tp_1": "Original price of the product.",
-            "tp_2": "Original price of the product."
+            "tp_1": "Price of the product on the first third-party platform.",
+            "tp_2": "Price of the product on the second third-party platform.",
+            "ajio_mrp": "Price of the product on Ajio.",
+            "amazon_mrp": "Price of the product on Amazon.",
+            "amazon_fba_mrp": "Price of the product on Amazon FBA.",
+            "flipkart_mrp": "Price of the product on Flipkart.",
+            "limeroad_mrp": "Price of the product on Limeroad.",
+            "myntra_mrp": "Price of the product on Myntra.",
+            "paytm_mrp": "Price of the product on Paytm.",
+            "snapdeal_mrp": "Price of the product on Snapdeal."
         }
     },
     "sale_report": {
