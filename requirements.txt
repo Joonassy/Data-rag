@@ -1,6 +1,6 @@
 pandas
 pyspark
 groq
-faiss
+faiss-cpu
 sentence-transformers
 transformers
